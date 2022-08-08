@@ -1,0 +1,3 @@
+Pour le projet c#: 
+user: admin
+mdp:  admin
